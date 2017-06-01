@@ -1,0 +1,2 @@
+# SmartSign
+Cartel luminoso inteligente
